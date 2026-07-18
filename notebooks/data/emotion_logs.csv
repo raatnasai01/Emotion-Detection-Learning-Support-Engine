@@ -1,0 +1,25 @@
+Timestamp,Input_Text,Primary_Emotion,Primary_Confidence,Secondary_Emotion,Secondary_Confidence
+2026-07-07 16:15:14,I failed my DSA exam and I am very frustrated.,Frustrated,99.63,,0.0
+2026-07-07 17:01:36,I don't understand backpropagation.,Confused,65.84,Bored,19.9
+2026-07-08 18:06:14,I dont understd Ml topics,Frustrated,46.63,Bored,42.77
+2026-07-08 18:15:55,I am confused about this Ml topics,Confused,96.92,,0.0
+2026-07-08 18:40:47,I don't understand ML ,Confused,45.76,Bored,41.53
+2026-07-08 18:50:36,I don't understand ML topics,Confused,58.76,Bored,20.18
+2026-07-08 19:00:24,I don't understand ML topics,Confused,58.76,Bored,20.18
+2026-07-08 19:39:43,I  don't understand ML topics,Confused,58.76,Bored,20.18
+2026-07-08 19:47:41,I  don't understand ML topics,Confused,58.76,Bored,20.18
+2026-07-08 19:48:36,I don't understand ML topics,Confused,58.76,Bored,20.18
+2026-07-08 19:49:50,I don't know ML topics,Bored,66.94,Frustrated,16.61
+2026-07-08 19:55:06,I don't know ML topics,Bored,66.94,Frustrated,16.61
+2026-07-08 20:31:09,I don't understand recursion,Confused,60.25,Bored,26.49
+2026-07-08 20:31:24,I don't understand recursion,Confused,60.25,Bored,26.49
+2026-07-08 20:32:27,I don't know loops,Bored,76.94,,0.0
+2026-07-08 20:32:59,"I don't know loops, what a bad",Frustrated,95.83,,0.0
+2026-07-08 20:38:06,I don't understand loops,Confused,44.95,Bored,32.47
+2026-07-09 17:54:48,I don'y understnd ML topics,Bored,53.13,Frustrated,31.52
+2026-07-09 17:57:47,i dont undestand ml topics,Bored,65.43,Frustrated,27.57
+2026-07-09 17:59:48,I didn't understand peddi movie ,Bored,96.32,,0.0
+2026-07-09 18:01:37,I didn't understand python  ,Bored,69.36,Confused,16.44
+2026-07-09 18:01:49,I didn't understand python  ,Bored,69.36,Confused,16.44
+2026-07-15 14:06:19,I don't understand ML topics ,Confused,60.42,Bored,20.75
+2026-07-15 16:45:53,I don't understnd ML topics,Bored,54.28,Frustrated,20.46
